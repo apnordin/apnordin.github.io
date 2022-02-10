@@ -14,7 +14,7 @@ body {
 
 .section {
   position: relative;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -258,6 +258,12 @@ h6 {
   margin-top: 32px;
 }
 .mt-5 {
+  margin-top: 40px;
+}
+.mt-6 {
+  margin-top: 60px;
+}
+.mt-7 {
   margin-top: 80px;
 }
 
@@ -275,6 +281,12 @@ h6 {
 }
 .mb-5 {
   margin-bottom: 40px;
+}
+.mb-6 {
+  margin-bottom: 60px;
+}
+.mb-7 {
+  margin-bottom: 80px;
 }
 
 .mx-1 {
