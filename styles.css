@@ -40,34 +40,23 @@ body {
 
 .bg1::after {
   background-image: radial-gradient(
-    farthest-side at 100% 100%,
-    #0b1046,
-    #0b0c1000 65%
+    farthest-side at 110% 110%,
+    #0f0931,
+    #0d0b2a,
+    #0b0c22,
+    #0a0c1a,
+    #0b0c10
   );
 }
 
 .bg2::after {
-  width: 100%;
   background-image: radial-gradient(
-    farthest-side at 0% 100%,
-    #4b0d2e,
-    #0b0c1000 65%
-  );
-}
-
-.bg3::after {
-  background-image: radial-gradient(
-    farthest-side at 0% 0%,
-    #15072e,
-    #0b0c1000 65%
-  );
-}
-
-.bg4::after {
-  background-image: radial-gradient(
-    farthest-side at 100% 0%,
-    #500f2888,
-    #0b0c1000 65%
+    farthest-side at -10% -10%,
+    #31111d,
+    #26121f,
+    #1b121e,
+    #121019,
+    #0b0c10
   );
 }
 
